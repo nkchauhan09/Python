@@ -1,0 +1,11 @@
+numbers = [1, 2, 3, 4]
+new = iter(numbers)
+print(next(new))
+print(next(new))
+print(next(new))
+print(next(new))
+squares = map(lambda a : a**2, numbers)
+print(next(squares))
+print(next(squares))
+print(next(squares))
+print(next(squares))

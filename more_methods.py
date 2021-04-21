@@ -1,0 +1,20 @@
+numbers = [4, 2, 8, 1, 6, 3, 5, 9]
+fruits = ["apple", "mango", "banana", "apple", "grapes"]
+print(fruits.count("apple"))
+print(sorted(numbers))
+print(sorted(fruits))
+print(numbers)
+print(fruits)
+numbers.sort()
+fruits.sort()
+print(numbers)
+print(fruits)
+numbers_copy = numbers.copy()
+print(numbers_copy)
+numbers.reverse()
+print(numbers)
+numbers.clear()
+fruits.clear()
+print(numbers)
+print(fruits)
+

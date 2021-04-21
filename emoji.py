@@ -1,0 +1,7 @@
+print("              \U0001F60D                              ")
+print("        \U0001F60D  \U0001F60D              ")
+print("      \U0001F60D     \U0001F60D                    ")
+print("     \U0001F60D       \U0001F60D                    ")
+print("    \U0001F60D                                               ")
+print("   \U0001F60D                                            ")
+print("  \U0001F60D                                                 ")
